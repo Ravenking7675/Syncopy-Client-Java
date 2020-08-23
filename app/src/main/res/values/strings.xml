@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Syncopy</string>
+    <string-array name="spinner">
+
+        <item>/generate_key</item>
+        <item>/add_connection</item>
+        <item>/connections/{UUID}</item>
+        <item>/clip</item>
+        <item>/recieved/{UUID}/1 [GET]</item>
+        <item>/recieved/{UUID}/1 [PUT]</item>
+        <item>/sent/{UUID}/n</item>
+        <item>/sent/{UUID} [GET]</item>
+        <item>/sent/{UUID} [DEL]</item>
+        <item>/recieved/{UUID}</item>
+        <item>/key/{username}</item>
+
+
+    </string-array>
+</resources>
